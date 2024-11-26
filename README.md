@@ -9,5 +9,5 @@ Este programa implementa um sistema de gestão de utilizadores para cálculo do 
 5. **Pesquisar utilizadores:**
   O usuário pode procurar um utilizador registrado e obter os dados completos, incluindo o IMC e a categoria.
 
-7. **Visualizar todos os utilizadores registrados.**
+7. **Visualizar todos os utilizadores registrados:**
   A interação é feita via menu no terminal, permitindo inserir, consultar e visualizar dados de utilizadores de forma simples e eficiente. O sistema utiliza o SQLite para persistência dos dados, oferecendo uma solução leve e rápida.
